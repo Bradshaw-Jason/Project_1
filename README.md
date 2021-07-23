@@ -1,3 +1,5 @@
 # Project_1
 
-I enjoy JavaScript because it utilizes both Functional programming and Object-oriented programming.
+
+##I like JavaScript becuase you can create so much with just a few lines of code.
+
